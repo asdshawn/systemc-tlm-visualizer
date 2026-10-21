@@ -1,0 +1,26 @@
+# Third-party build cache & compiled SystemC binaries
+vendor/
+
+# Compiled C++ / Native artifacts
+*.o
+*.obj
+*.a
+*.lib
+*.exe
+*.pdb
+*.dll
+*.so
+*.dylib
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
